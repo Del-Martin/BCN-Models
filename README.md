@@ -19,4 +19,4 @@ El sitio está diseñado para mostrar a los modelos disponibles en la agencia se
 
 **Créditos**  
 Desarrollado y diseñado por: **Martín Delfini**  
-Fecha: 19 de marzo de 2024  
+Fecha: 19 de marzo de 2024 
